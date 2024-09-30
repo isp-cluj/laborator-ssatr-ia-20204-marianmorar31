@@ -3,7 +3,7 @@
 ## Laboratoare SSATR
 
 ## Laborator 1 (4h)
-
+ -git
 - Aspecte de programare OOP. 
 - Generarea de QR coduri utilizand libraria com.google.zxing.
 
